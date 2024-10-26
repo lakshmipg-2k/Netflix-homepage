@@ -5,4 +5,4 @@ Home page
 Live link
 
 
-"https://lucky2k21.github.io/Netflix-homepage/"
+"https://lakshmipg-2k.github.io/Netflix-homepage/"
